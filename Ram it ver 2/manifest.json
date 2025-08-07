@@ -1,0 +1,8 @@
+{
+  "default_size_mb": 1024,
+  "agent_count": 8,
+  "auto_purge": true,
+  "gpu_fx": true,
+  "encryption_enabled": false
+}
+

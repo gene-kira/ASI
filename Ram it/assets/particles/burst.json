@@ -1,0 +1,8 @@
+{
+  "type": "burst",
+  "color": "#FFAA00",
+  "count": 30,
+  "spread": 360,
+  "duration": 0.5
+}
+
