@@ -1,0 +1,30 @@
+[
+  {
+    "time": "2025-08-16 11:45:04",
+    "event": "Initializing..."
+  },
+  {
+    "time": "2025-08-16 11:45:04",
+    "event": "Monitoring threats..."
+  },
+  {
+    "time": "2025-08-16 11:45:05",
+    "event": "\ud83d\udd04 Rebirth cycle initiated. Vault purged."
+  },
+  {
+    "time": "2025-08-16 11:45:05",
+    "event": "\ud83d\udd76\ufe0f MAC: 8a:f4:77:ac:75:8a | IP: 192.168.1.71"
+  },
+  {
+    "time": "2025-08-16 11:45:15",
+    "event": "\ud83d\udd76\ufe0f MAC: 88:8c:5d:fa:92:91 | IP: 192.168.1.71"
+  },
+  {
+    "time": "2025-08-16 11:45:25",
+    "event": "\ud83d\udd76\ufe0f MAC: 57:26:dd:72:1a:d7 | IP: 192.168.1.71"
+  },
+  {
+    "time": "2025-08-16 11:45:35",
+    "event": "\ud83d\udd76\ufe0f MAC: 98:7b:ed:8e:bc:12 | IP: 192.168.1.71"
+  }
+]
