@@ -1,0 +1,38 @@
+{
+  "game.exe": {
+    "fusion_signature": "F:3351",
+    "entropy_profile": [
+      4.073350660271868
+    ],
+    "lineage": [
+      "game.exe",
+      "core",
+      "vault"
+    ],
+    "last_seen": "2025-08-26T20:23:17"
+  },
+  "vault.sync": {
+    "fusion_signature": "F:6200",
+    "entropy_profile": [
+      3.9904274416646177
+    ],
+    "lineage": [
+      "vault.sync",
+      "core",
+      "vault"
+    ],
+    "last_seen": "2025-08-26T20:23:20"
+  },
+  "swarm.node": {
+    "fusion_signature": "F:3035",
+    "entropy_profile": [
+      4.072183752328778
+    ],
+    "lineage": [
+      "swarm.node",
+      "core",
+      "vault"
+    ],
+    "last_seen": "2025-08-26T20:23:21"
+  }
+}
