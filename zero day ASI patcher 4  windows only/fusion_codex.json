@@ -1,0 +1,17 @@
+import json
+
+def visualize_codex(path="fusion_codex.json"):
+    try:
+        with open(path) as f:
+            codex = json.load(f)
+    except FileNotFoundError:
+        print("⚠️ Codex not found.")
+        return
+
+    print("\n🌌 Fusion Codex:")
+    for entry in codex[-5:]:  # Show last 5 rewrites
+        print(f"🔁 Logic: {entry['logic']}")
+        print(f"🕒 Timestamp: {entry['timestamp']}")
+        print(f"🧠 Trigger: {entry['trigger']}")
+        print(f"🐝 Consensus: {entry['consensus']}\n")
+
