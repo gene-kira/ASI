@@ -10,3 +10,5 @@ the folder you see here are 1 program and to start them use main.py   and you mu
 this one is really cool # 🔮 Mythic ASI HUD - MagicBox learning-11-5gig-drop-box-cool  it  will run on anything it have a 5 gig drop to feed it :] 8-10-2025 3:15.pm
 
 on this pulsenode 5 will not run in startup but will run on the desktop gaming is increased  i think they do not like me :]  8-29-2025   10:16am 
+
+synthic  is a high level data transfer program   8-30-2025    2pm
