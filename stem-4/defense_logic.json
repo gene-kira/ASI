@@ -1,0 +1,6 @@
+{
+  "defense_mode": "adaptive",
+  "scan_interval": 7,
+  "trust_policy": "zero",
+  "mutation": "rewrite triggered by rogue_process_or_port"
+}
