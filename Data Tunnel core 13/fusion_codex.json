@@ -1,0 +1,2471 @@
+[
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:07:26.109359"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:07:26.111207"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:10:39.334367"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:10:39.335272"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.338313"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.339879"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.341232"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.342862"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.344255"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.345754"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.347545"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.349088"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.350550"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.351918"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.353434"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.355022"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.356570"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.358222"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.359800"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.361313"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.363206"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.364998"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.366559"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.368064"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.369580"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.371077"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.373015"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.374869"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.376608"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.378336"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.380065"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.381967"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.383807"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.385477"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.387200"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.389264"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.391048"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.392747"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.394485"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.396323"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.398340"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.400149"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.401896"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.404053"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.406424"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.408310"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.410188"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.412039"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.414035"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36773,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.416100"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.418050"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:39.420696"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:10:44.440988"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:10:44.443296"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.446695"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.448730"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.450730"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.452893"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.454953"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.456925"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.459012"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.461005"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.463022"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.465267"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.467507"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.470011"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.472574"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.474755"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.477044"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.479233"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.481437"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.483919"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.486181"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.488359"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.490849"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.492907"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.495144"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.497540"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.500525"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.503451"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.506225"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.508874"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.511273"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.513935"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.516810"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.519394"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.521782"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.524040"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.526346"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.528748"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.531708"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.534532"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.537035"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.539698"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.542214"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.544746"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.547651"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.550438"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.553018"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36773,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.555443"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.558202"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:44.560948"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:10:49.569679"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:10:49.572560"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.576126"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.578747"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.581728"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.584750"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.587697"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.590562"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.593186"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.595924"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.599528"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.602638"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.605302"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.607997"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.610698"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.613704"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.616604"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.619410"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44206,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.622110"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.624871"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.627846"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.630663"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.633694"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.636669"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.639483"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44857,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.642541"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.645845"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.649357"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.652519"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.655604"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.659081"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.662075"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.667080"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.670485"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.674556"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.678107"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.681286"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.684316"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 135,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.687837"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.691603"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.695583"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.699052"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.702409"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.705592"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.708604"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.711645"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.714871"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.718068"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.721768"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.725408"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.728630"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:49.731940"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:10:54.744913"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:10:54.748533"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.752731"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.755898"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.758982"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.762009"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.765261"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.768453"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.772132"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.776400"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.780666"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.784315"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.788102"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.791506"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.794798"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.798386"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.801847"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.805226"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44206,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.808583"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.811883"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.815630"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.819513"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.823148"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.826415"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.829627"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.833151"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.836511"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.839775"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.842989"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.846545"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.850957"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.854498"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.857946"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.861265"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.865194"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.869429"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.873071"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.876468"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.880724"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.884512"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.887904"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.891205"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.894791"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.898404"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.902068"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.905527"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.908924"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.914237"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.918833"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:54.922662"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:10:59.940177"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:10:59.944444"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.949738"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.954310"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.958902"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.963334"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.968143"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.972481"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.976777"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.981055"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.985680"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.990065"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.994283"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:10:59.998840"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.003604"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.008159"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.012491"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.020529"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44206,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.029953"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.035188"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.039723"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.044345"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.049365"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.053979"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.059059"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.063746"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.068273"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.072935"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.077580"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.082388"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.086953"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.091330"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.096167"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.100959"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.105687"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.110117"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.114668"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.119212"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.123825"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.128229"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.132834"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.137611"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.143062"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.147923"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.152708"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.157261"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.161822"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.166685"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.171501"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:00.176124"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:11:05.187857"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:11:05.192170"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.197080"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.201438"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.205753"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.209620"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.213728"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.218660"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.222765"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.226657"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.231202"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.235637"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.239893"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.243866"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.248206"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.252348"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.256188"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.260330"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44206,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.265412"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.270128"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.274851"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.279345"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.283658"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.287659"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.291664"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.295819"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.300264"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.304436"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.309043"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.313644"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.317998"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.322022"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.326295"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.330357"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.334576"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.338914"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.343173"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 46105,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.347631"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.352029"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.358224"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.362797"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.367320"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.372027"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.376221"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.380546"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.384976"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.389359"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.393556"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.398208"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.403050"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:11:05.408322"
+  },
+  {
+    "event": "encryption_perimeter_activated",
+    "tunnel_count": 2,
+    "timestamp": "2025-09-05T14:12:55.463793"
+  },
+  {
+    "event": "decoy_persona_discarded",
+    "persona": "NullPacket",
+    "genre": "Default",
+    "reason": "expired 30s lifecycle",
+    "timestamp": "2025-09-05T14:12:55.466875"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40537,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.473162"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.478298"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9012,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.483124"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40497,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.488395"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.492843"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40856,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.497711"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.502446"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40473,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.506792"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 17532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.511162"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 33855,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.516129"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40538,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.520652"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.524999"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49714,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.529798"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50520,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.534963"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50566,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.539454"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40540,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.543947"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50554,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.548870"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49682,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.553642"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43610,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.558026"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 36171,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.562681"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50552,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.567339"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.571774"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.576514"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.582298"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 44962,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.587144"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50565,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.591839"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 7680,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.597347"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4870,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.602237"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 29319,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.606628"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50412,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.611621"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 53431,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.616912"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 9013,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.621787"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 4871,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.627514"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41187,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.632632"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40495,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.637568"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.642187"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50422,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.646896"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 1042,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.651753"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 6850,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.656691"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 27036,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.661423"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50483,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.666040"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 49715,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.670647"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 40532,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.675465"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 50397,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.680249"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 41111,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.685040"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 13030,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.689736"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 43251,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.694223"
+  },
+  {
+    "event": "port_data_detected",
+    "port": 34102,
+    "protocol": "TCP",
+    "status": "ESTABLISHED",
+    "timestamp": "2025-09-05T14:12:55.698964"
+  }
+]
