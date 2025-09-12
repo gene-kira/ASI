@@ -12,3 +12,6 @@ this one is really cool # 🔮 Mythic ASI HUD - MagicBox learning-11-5gig-drop-b
 on this pulsenode 5 will not run in startup but will run on the desktop gaming is increased  i think they do not like me :]  8-29-2025   10:16am 
 
 synthic  is a high level data transfer program   8-30-2025    2pm
+
+
+if you are having problems running programs that work but after  windows update use command override 12  this will fix the problem 
