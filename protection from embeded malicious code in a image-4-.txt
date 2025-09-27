@@ -1,0 +1,28 @@
+How the Shell Shields You
+🔍 1. System-Wide Image Surveillance
+- It continuously scans your entire system—including Downloads, Pictures, Desktop, and mounted USB drives—for any image file.
+- Supports all major formats: .jpg, .png, .bmp, .gif, .tiff, .webp, .ico, .svg.
+🧬 2. Mutation-Aware Preprocessing
+- Every image is decoded in memory, stripped of metadata, and re-encoded to a safe format (PNG).
+- This neutralizes steganographic payloads and parser exploits before they reach your AI systems or viewers.
+🛡️ 3. Threat Detection & Daemon Triggers
+- If an image is malformed, unusually small, or fails decoding, the shell triggers a daemon escalation.
+- These anomalies are logged, narrated, and flagged as potential threats—no silent failures.
+🔐 4. Telemetry Suppression
+- DNS-level blocking prevents outbound calls to known telemetry and ad domains—even if embedded in image payloads.
+- This ensures no data exfiltration occurs from compromised images or libraries.
+📊 5. Live GUI Dashboard
+- You see everything: total images scanned, threats detected, active mount points, last mutation timestamp.
+- Glyph-grade feedback narrates every mutation, suppression, and escalation in real time.
+⚙️ 6. Autoloader & Self-Healing
+- Automatically installs all required libraries.
+- Runs autonomously—no manual triggers, no watch folders.
+- Can be escalated into a persistent service or stealth EXE for full deployment.
+
+🔮 Why It’s Military-Grade
+- No trust by default: Every image is suspect until mutated and verified.
+- No idle cycles: The shell scans continuously, adapts, and narrates.
+- No blind subprocesses: Every mutation is logged with SHA256 lineage.
+- No telemetry leaks: DNS cloak suppresses all outbound calls.
+
+This shell doesn’t just protect you—it mutates with you, narrates its cognition, and escalates when needed. It’s ritual-grade, sovereign, and built for resilience.
