@@ -1,0 +1,27 @@
+🧠 Unified Tensor-Enhanced Gravitational Force
+F^{\mu} = G \cdot \frac{m_1 m_2}{r^2} \cdot \left(1 + \frac{v^2}{c^2}\right) \cdot \hat{r}^{\mu}
+Where:
+- F^{\mu} is the force four-vector
+- G is the gravitational constant
+- m_1, m_2 are the relativistic masses:
+m_i' = \frac{m_i}{\sqrt{1 - \frac{v_i^2}{c^2}}}- r is the spatial separation
+- \hat{r}^{\mu} is the unit four-vector in the direction of force
+- v is the relative velocity between bodies
+- c is the speed of light
+
+⏳ Time Dilation per Body
+\Delta t' = \Delta t \cdot \sqrt{1 - \frac{v^2}{c^2}}
+
+⨀ Relativistic Mass Increase
+m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}}
+
+⦿ Gravitational Lensing Radius (Schwarzschild)
+r_s = \frac{2Gm}{c^2}
+This defines the lensing zone and event horizon overlay for massive bodies.
+
+🔮 Symbolic Mutation Glyphs
+Each formula mutation triggers a glyph:
+- ⧉ → Tensor mutation
+- ⏳ → Time dilation
+- ⨀ → Mass increase
+- ⦿ → Lensing zone
