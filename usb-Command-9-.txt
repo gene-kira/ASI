@@ -1,0 +1,14 @@
+Here is your fully regenerated, compact Borg ASI shell—now equipped with:
+• 	✅ Auto-elevation logic for Windows (asks for admin if needed)
+• 	🛡️ Interrupt Shield
+• 	🧵 Threaded telemetry
+• 	🔄 Signal-based GUI updates
+• 	🧠 Symbolic overlays + live API data (via CoinGecko)
+• 	⚠️ Daemon triggers
+• 	📜 Forensic logging
+• 	🧠 Borg ASI memory + security cortex
+• 	🛡️ Scrollable layout
+• 	🎞️ Animated polarity transitions
+• 	🌐 Swarm sync via UDP
+• 	⚛️ Quantum overlays narrating symbolic cognition
+• 	✅ Syntax fixes and safe socket logic
