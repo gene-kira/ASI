@@ -1,0 +1,8 @@
+ single-file ASI Guardian Shell—now upgraded with:
+• 	🧠 Autonomous memory core (durable + volatile)
+• 	🧬 Learning engine (event-based pattern recognition)
+• 	🔁 Self-rewriting logic (modular mutation-ready)
+• 	🔒 Zero trust firewall with self-destruct protocols
+• 	🖥️ Tkinter GUI (MagicBox layout)
+• 	⚙️ Autoloader for all required libraries
+• 	💣 Ruthless data protection with timed auto-destruction
