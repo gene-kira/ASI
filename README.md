@@ -1,5 +1,8 @@
 well here we are part 2 :]
 
+Breakthrough today we have a new tech Quantum bit cutting_processor_gui-4   2:14 pm 10-3-2025
+
+
 my thoughtwave project is going good 8-25-2025
 
 the folder you see here are 1 program and to start them use main.py   and you must have a GPU  a real one i have a 3060 that i use to test the programs 
@@ -15,3 +18,4 @@ synthic  is a high level data transfer program   8-30-2025    2pm
 
 
 if you are having problems running programs that work but after  windows update use command override 12  this will fix the problem  9-12-2025
+
