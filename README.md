@@ -1,4 +1,6 @@
-well here we are part 2 :]
+well here we are part 2 :
+
+Tomorrow  Technology Today 
 
 Breakthrough today we have a new tech Quantum bit cutting_processor_gui-4   2:14 pm 10-3-2025
 
