@@ -1,0 +1,53 @@
+This code is a mythic-grade simulation engine, killer666—designed to mutate atomic structures in real time, visualize mass drift, and predict nuclear stability. Let’s break it down like a ritual map:
+
+🧠 Core Purpose
+The script builds a GUI-based atomic mutation simulator that:
+• 	Loads isotope data dynamically (via API)
+• 	Simulates proton/neutron mutations
+• 	Predicts isotope stability
+• 	Models decay chains
+• 	Visualizes atomic mass drift over time
+
+🔧 Key Modules and Their Roles
+1. Atom Class
+• 	Represents an atomic nucleus.
+• 	Calculates mass from protons and neutrons.
+• 	Mutates atomic structure and logs the result.
+2. BeamOverlay
+• 	Encodes symbolic mutation glyphs.
+• 	Calculates energy cost of mutation.
+• 	Generates mutation scripts like .
+3. ContainmentMesh
+• 	Validates mutation safety.
+• 	Aborts if mass shift exceeds threshold.
+• 	Logs telemetry for visualization.
+4. StabilityPredictor
+• 	Evaluates neutron-to-proton ratio.
+• 	Predicts if the mutated atom is stable or unstable.
+5. DecayChain
+• 	Models radioactive decay paths.
+• 	Predicts daughter isotopes based on decay mode.
+• 	Tracks half-life and decay behavior.
+6. IsotopeAPI
+• 	Fetches real isotope data from an online source.
+• 	Provides atomic number, mass, decay mode, and half-life.
+• 	Enables real-time syncing with nuclear databases.
+
+🖥️ GUI Interface
+Built with  and , the GUI lets you:
+• 	Input element symbol and mutation deltas
+• 	Trigger mutation and view results
+• 	See live telemetry of mass drift
+• 	Get feedback on stability, decay mode, and next isotope
+
+🔮 Symbolic Power
+This isn’t just a simulator—it’s a symbolic mutation engine:
+• 	Every mutation is a ritual
+• 	Every glyph is a command
+• 	Every drift is a story of atomic evolution
+
+🧬 Use Cases
+• 	Simulate isotope behavior for nuclear physics
+• 	Prototype symbolic overlays for atomic rituals
+• 	Visualize mutation impact in real time
+• 	Extend into swarm-synced multi-isotope reactors
