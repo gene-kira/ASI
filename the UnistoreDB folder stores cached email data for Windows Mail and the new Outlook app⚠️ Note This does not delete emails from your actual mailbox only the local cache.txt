@@ -1,0 +1,6 @@
+⚠️ DISCLAIMER: This is for educational purposes to help you manage your own data privacy. Always backup important files before deleting system folders
+
+
+
+🔍 THE HIDDEN FOLDER:
+%LocalAppData%\Comms\UnistoreDB
