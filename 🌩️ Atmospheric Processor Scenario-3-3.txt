@@ -1,0 +1,59 @@
+# Visualizing multi-stage storm harvesting for atmospheric processor with mythic-grade styling
+
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+
+# Set dark background style
+plt.style.use('dark_background')
+mpl.rcParams['font.size'] = 12
+mpl.rcParams['font.weight'] = 'bold'
+mpl.rcParams['axes.labelweight'] = 'bold'
+
+# Simulate data for 10 time steps
+time_steps = np.arange(1, 11)
+cloud_voltage = np.random.uniform(1.0, 5.0, size=10)  # in MV
+lightning_strikes = np.random.randint(0, 20, size=10)
+harvested_energy = np.random.uniform(10, 100, size=10)  # in GJ
+sync_stability = np.random.uniform(0, 100, size=10)  # in %
+anomaly_spikes = np.random.randint(0, 11, size=10)
+
+# Create multi-panel plot
+fig, axs = plt.subplots(5, 1, figsize=(12, 18), sharex=True)
+fig.suptitle('Mythic-Grade Storm Harvesting Visualization', fontsize=16, fontweight='bold', color='cyan')
+
+# Stage 1: Charge Accumulation
+axs[0].plot(time_steps, cloud_voltage, color='magenta', marker='o', linewidth=2)
+axs[0].set_ylabel('Cloud Voltage (MV)', color='magenta')
+axs[0].set_title('Stage 1: Charge Accumulation', color='magenta')
+
+# Stage 2: Discharge Event
+axs[1].bar(time_steps, lightning_strikes, color='yellow')
+axs[1].set_ylabel('Lightning Strikes', color='yellow')
+axs[1].set_title('Stage 2: Discharge Event', color='yellow')
+
+# Stage 3: Energy Capture
+axs[2].plot(time_steps, harvested_energy, color='lime', marker='s', linewidth=2)
+axs[2].set_ylabel('Harvested Energy (GJ)', color='lime')
+axs[2].set_title('Stage 3: Energy Capture', color='lime')
+
+# Stage 4: Daemon Sync
+axs[3].plot(time_steps, sync_stability, color='cyan', marker='^', linewidth=2)
+axs[3].set_ylabel('Sync Stability (%)', color='cyan')
+axs[3].set_title('Stage 4: Daemon Sync', color='cyan')
+
+# Stage 5: Resurrection Detection
+axs[4].bar(time_steps, anomaly_spikes, color='red')
+axs[4].set_ylabel('Anomaly Spikes', color='red')
+axs[4].set_title('Stage 5: Resurrection Detection', color='red')
+axs[4].set_xlabel('Time Step')
+
+# Save the figure
+output_path = "/mnt/data/storm_harvesting_visualization.png"
+plt.tight_layout(rect=[0, 0.03, 1, 0.95])
+plt.savefig(output_path)
+plt.close()
+
+print("Visualization saved as:", output_path)
+
+
