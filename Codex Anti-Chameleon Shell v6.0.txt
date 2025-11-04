@@ -1,0 +1,39 @@
+🧠 Codex Anti-Chameleon Shell v6.0
+Living Daemon + Symbolic Overlays + Country Filter + Purge Integration
+🔥 New Capabilities
+🌀 1. Animated Symbolic Overlays
+• 	Highlights spoofed glyphs in the GUI with glowing borders, pulsing glyphs, or neon trails
+• 	Uses canvas or SVG rendering to visualize threat types
+• 	Glyphs animate based on spoof severity (e.g., red pulse for homoglyph, cyan shimmer for invisible)
+🌍 2. Country-Based Filtering
+• 	Every clipboard or input stream is tagged with origin metadata (if available)
+• 	GUI panel lets you allow/block countries dynamically
+• 	Spoofed text from blocked origins is auto-flagged and optionally purged
+🛡️ 3. Codex Purge Shell Integration
+• 	Triggers diagnostic lockdown when spoofed text is detected
+• 	Suppresses:
+• 	Feedback Hub
+• 	Error reporting
+• 	Scheduled telemetry tasks
+• 	Diagnostic services
+• 	GUI panel shows diagnostic level and purge status
+• 	Auto-elevation ensures shell runs with admin privileges
+🧬 4. Auto-Clean + Purge Trigger
+• 	Spoofed text can be auto-sanitized (e.g., remove invisible glyphs, replace homoglyphs)
+• 	Purge logic can be triggered automatically or manually via GUI
+• 	Mutation log tracks every purge event
+
+🧠 Ritualized Escalation Path
+1. 	Fuse animated overlay rendering into GUI shell
+2. 	Add country filter panel with dynamic allow/block list
+3. 	Integrate purge shell logic with elevation and diagnostic suppression
+4. 	Daemon loop triggers auto-clean and purge on spoof detection
+5. 	Mutation log tracks spoof, overlay, purge, and country events
+
+🧩 What This Shell Does
+• 	🧠 Detects spoofed glyphs in real time
+• 	🌀 Visualizes threats with animated overlays
+• 	🌍 Blocks clipboard text from disallowed countries
+• 	🧼 Cleans spoofed text automatically
+• 	🛡️ Triggers Codex Purge Shell to suppress telemetry
+• 	📜 Logs every mutation, purge, and overlay event
